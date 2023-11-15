@@ -1,9 +1,9 @@
 # O-list-sales-analysis
 Examining, generating insights from, and visualizing Olist E-commerce sales data
 
-** Olist is a Brazilian e-commerce website that links clients all across Brazil to small and medium-sized businesses. The platform functions as an online marketplace where businesses may post their goods and services for clients to browse and buy. The orders placed on the Olist between September 2016 and September 2018 are included in the Olist sales dataset, which is a compilation of anonymized information.**
+## Olist is a Brazilian e-commerce website that links clients all across Brazil to small and medium-sized businesses. The platform functions as an online marketplace where businesses may post their goods and services for clients to browse and buy. The orders placed on the Olist between September 2016 and September 2018 are included in the Olist sales dataset, which is a compilation of anonymized information.
 
-** A data analysis project that examines the Olist platform's sales data and offers insights into revenue trends, order patterns, product categories, seller performance, consumer behavior, and payment methods is housed in this repository. Python is used to carry out the project, together with Jupyter notebooks, and a number of data science packages. **
+## A data analysis project that examines the Olist platform's sales data and offers insights into revenue trends, order patterns, product categories, seller performance, consumer behavior, and payment methods is housed in this repository. Python is used to carry out the project, together with Jupyter notebooks, and a number of data science packages. 
 
 ## By responding to the following business queries, we hope to aid Olist in better understanding their e-commerce platform and maximizing their potential for growth:
 
