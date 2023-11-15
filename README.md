@@ -20,3 +20,6 @@ Examining, generating insights from, and visualizing Olist E-commerce sales data
 11. Which product categories have the highest revenue on Olist, and how can the company increase revenue across different categories?
 12. What Geolocation has high customer density?
 ## Addressing these inquiries, we hope to better inform managers and other stakeholders about the Brazilian e-commerce market and suggest ways to boost the efficiency of Olist.
+
+![image](https://github.com/Mbakwe-Chidera/O-list-sales-analysis/assets/115686557/4411e9d3-b87c-44e6-ae8c-9e5b1fed52e9)
+
